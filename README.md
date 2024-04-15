@@ -12,10 +12,10 @@
 
     ```shell
     INFURA_KEY="<string?>"
-    MNEMONIC_DEV="<string>"
-    MNEMONIC_PROD="<string>"
-    FORKING_NETWORK="<main | sepolia>"
-    ETHERSCAN_API_KEY="<string>"
+    MNEMONIC_DEV="<string?>"
+    MNEMONIC_PROD="<string?>"
+    FORKING_NETWORK="<main | sepolia?>"
+    ETHERSCAN_API_KEY="<string?>"
     ```
 
 1. Compile contracts:
